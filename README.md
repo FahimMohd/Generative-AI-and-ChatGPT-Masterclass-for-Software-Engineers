@@ -1,5 +1,6 @@
 
-![Uploading UdemyPic2.png…]()
+
+![UdemyPic2](https://github.com/FahimMohd/Generative-AI-and-ChatGPT-Masterclass-for-Software-Engineers/assets/91497998/88dfbbbf-eeda-4c54-8b0e-ca82c26b496b)
 
  
  Welcome to the Ultimate Course on ChatGPT, Generative AI, and Artificial Intelligence! 
