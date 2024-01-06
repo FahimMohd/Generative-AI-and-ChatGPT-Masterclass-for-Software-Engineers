@@ -1,3 +1,7 @@
+
+![Uploading UdemyPic2.png…]()
+
+ 
  Welcome to the Ultimate Course on ChatGPT, Generative AI, and Artificial Intelligence! 
 
 This course is your gateway to mastering ChatGPT – from effective prompt engineering for unmatched productivity to crafting AI-powered resumes and acing interviews. 
