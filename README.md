@@ -3,15 +3,9 @@
 ![UdemyPic2](https://github.com/FahimMohd/Generative-AI-and-ChatGPT-Masterclass-for-Software-Engineers/assets/91497998/88dfbbbf-eeda-4c54-8b0e-ca82c26b496b)
 
  
- Welcome to the Ultimate Course on ChatGPT, Generative AI, and Artificial Intelligence! 
+You don't have to buy 7-8 courses to learn - ChatGPT, Open AI APIs, Generative AI, LLM key concepts, Github Copilot, Langchain, Amazon Q Developer, Amazon Q Business,  Amazon Bedrock, Google Gemini, GCP Vertex AI and Open AI Sora Architecture !
 
-This course is your gateway to mastering ChatGPT – from effective prompt engineering for unmatched productivity to crafting AI-powered resumes and acing interviews. 
-
-Uncover the fundamentals of Artificial Intelligence, and navigate the OpenAI landscape with confidence. With 1000+ practical examples, hands-on projects, and insights into advanced generative AI techniques, you'll not only understand the theory but apply it to real-world scenarios.
-
- Dive into the OpenAI evolution, dissect the ChatGPT tech stack. From token pricing to English language queries, this course equips you with the tools to navigate the dynamic world of AI.
-
- Elevate your skills with advanced topics – embeddings, fine-tuning, and more. Immerse yourself in a real-world project where RAG and embeddings are plotted in graphs, bringing theory to life. 
+Welcome to our Comprehensive Course which covers all of these topics and we keep adding new topics every month !! 
 
 Your journey to becoming a ChatGPT and Generative AI expert starts here! 
 
